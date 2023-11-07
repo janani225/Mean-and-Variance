@@ -1,5 +1,6 @@
 #  Mean and variance of a discrete  distribution
-
+# EX-01
+# Date : 25-08-23
 
 # Aim : 
 
